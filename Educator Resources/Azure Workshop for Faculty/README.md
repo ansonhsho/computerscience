@@ -92,7 +92,7 @@ IoT Hub is a managed service that acts as a central message hub for bi-direction
 
 | Name | Type | Estimated time to complete | Abstract | Hyperlink |
 | --- | --- | --- | --- | --- |
-| What is Azure IoT Hub | Lesson | 10 minutes | Learn the capabilities of Azure IoT Hub and how it integrates with other services. | [https://docs.microsoft.com/en-ca/azure/iot-hub/about-iot-hub](https://docs.microsoft.com/en-ca/azure/iot-hub/about-iot-hub) |
+| What is Azure IoT Hub? | Lesson | 10 minutes | Learn the capabilities of Azure IoT Hub and how it integrates with other services. | [https://docs.microsoft.com/en-ca/azure/iot-hub/about-iot-hub](https://docs.microsoft.com/en-ca/azure/iot-hub/about-iot-hub) |
 | Quickstart: Send telemetry from a device to an IoT hub and read it with a back-end application | Hands-On | 45 minutes  | Create an IoT hub and register a device with the hub then use two pre-written applications to send and read telemetry. This lab can be completed using Python, Java, Node.js, C, .NET,  Android, or iOS. This lab requires a development environment to edit and execute the application. If you do not have one installed, you can install Visual Studio Code on Windows, macOS, or Linux (https://code.visualstudio.com/) | [https://docs.microsoft.com/en-ca/azure/iot-hub/quickstart-send-telemetry-node](https://docs.microsoft.com/en-ca/azure/iot-hub/quickstart-send-telemetry-node) |
 
 ### Train your own model using Microsoft Azure Notebooks
