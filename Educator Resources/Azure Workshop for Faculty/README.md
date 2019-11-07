@@ -11,7 +11,7 @@ The content is divided up into two sections:
 1. [Azure Overview](#Azure-Overview)
     * [Introduction to Cloud and Navigating Azure](#Introduction-to-Cloud-and-Navigating-Azure)
     * [Azure Services](#Azure-Services)
-2. [Hands-on Workshops](#Hand-on-Workshops)
+2. [Hands-on Workshops](#Hands-on-Workshops)
     * [Data Science Overview](#Data-Science-Overview)
     * [Azure Data Science services overview](#Azure-Data-Science-Services-Overview)
     * [Anomaly Detection using Anomaly Detector API](#Anomaly-Detection-using-Anomaly-Detector-API)
